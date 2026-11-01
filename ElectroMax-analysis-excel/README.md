@@ -125,7 +125,7 @@ Dibandingkan tahun sebelumnya:
 
 Dashboard juga menampilkan tren omzet bulanan dibandingkan tahun sebelumnya serta performa omzet berdasarkan subkategori dan toko.
 
-## ![Overview](Power_Bi\ScreenShots_Dashboard\overview.jpg)
+![Overview](Power_Bi/ScreenShots_Dashboard/overview.jpg)
 
 ## 2. Product & Toko
 
@@ -149,7 +149,7 @@ Berdasarkan dashboard, **ElektroMax Pondok Indah Mall** memiliki total omzet seb
 
 Sementara itu, **ElektroMax Palembang Indah** memiliki achievement sebesar **445,40%** berdasarkan indikator achievement yang digunakan pada dashboard.
 
-## ![Product_Toko](Power_Bi\ScreenShots_Dashboard\product-toko.jpg)
+![Product-Toko](Power_Bi/ScreenShots_Dashboard/product-toko.jpg)
 
 ## 3. Customers
 
@@ -175,7 +175,7 @@ Analisis pelanggan mencakup:
 - Frekuensi transaksi
 - Gross Profit Margin
 
-## ![Customers](Power_Bi\ScreenShots_Dashboard\customers.jpg)
+![Customers](Power_Bi/ScreenShots_Dashboard/customers.jpg)
 
 # 💡 Key Insights
 
